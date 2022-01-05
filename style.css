@@ -10,7 +10,6 @@ h1{
 }
 .flex{
     display: flex;
-
 }
 .flex1 {
     display: flex ;
@@ -25,6 +24,17 @@ h1{
     text-decoration: none;
    background-color: orangered;
    color:  white;
-    padding:10px 30px ;
+    padding:5px 5px ;
     border-radius: 5px;
+}
+.align {
+    text-align: center;
+}
+
+.last{
+    background-color: black;
+    text-align: center;
+
+ text-decoration: none;
+ color: white;
 }
