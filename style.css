@@ -68,3 +68,15 @@ h1{
     text-decoration: none;
     color: white;
 }
+#contact {
+    margin-top: 20px;
+    margin-left: 100px;
+    width: 50%;
+}
+
+#msg {
+    padding-left: 50px;
+    background-image: linear-gradient(rgba(247, 189, 0, 0.336),rgba(10, 252, 232, 0.212));
+    box-shadow: 5px 5px 5px rgba(136, 119, 119, 0.253) ;
+    border-radius: 15px;
+    margin-bottom: 50px;
